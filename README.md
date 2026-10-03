@@ -37,5 +37,3 @@
 ## 公開
 
 このガイドは専用の [janken-guideリポジトリ](https://github.com/merogame/janken-guide) で管理しています。GitHub Pagesは `main` ブランチのルートから配信します。
-
-[CCレモンガイド](https://merogame.github.io/cc-lemon-guide/) は別のリポジトリです。
